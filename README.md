@@ -18,7 +18,7 @@
 ---
 
 ### Languages and Tools:
-![Languages and Tools](https://skillicons.dev/icons?i=bootstrap,c,cpp,cs,css,docker,dotnet,git,html,js,linux,mssql,mysql,postman,python,)
+![Languages and Tools](https://skillicons.dev/icons?i=bootstrap,c,cpp,cs,css,docker,dotnet,git,html,js,linux,mysql,postman,python,)
 
 ---
 
