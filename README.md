@@ -1,16 +1,27 @@
-## Hi there 👋
+# Hi there, I'm Mohamed Adel Elsayed 👋
 
-<!--
-**M0hammedAsaad/M0hammedAsaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### A passionate Backend Developer
 
-Here are some ideas to get you started:
+- 📫 How to reach me: **mohamed.adel.elsayed.fci@gmail.com**
+- ⚡ Fun fact: It’s attention to detail that makes the difference between average and stunning.
+  
+### Know about my experiences: [My CV](#)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### Connect with me:
+- [GitHub: mohamed-adel23](https://github.com/M0hammedAsaad)
+- [LinkedIn](#)
+- [Facebook](#)
+- [Instagram](#)
+
+---
+
+### Languages and Tools:
+![Languages and Tools](https://skillicons.dev/icons?i=bootstrap,c,cpp,cs,css,docker,dotnet,git,html,js,linux,mssql,mysql,php,postman,python,react)
+
+---
+
+### Support:
+[![Support me](https://img.shields.io/badge/Support-bnadel-blue)](#)
+
