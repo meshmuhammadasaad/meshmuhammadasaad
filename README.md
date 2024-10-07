@@ -1,4 +1,4 @@
-# Hi there, I'm Mohamed Adel Elsayed 👋
+# Hi there, I'm Mohammed Asaad 👋
 
 ### A passionate Backend Developer
 
@@ -18,7 +18,7 @@
 ---
 
 ### Languages and Tools:
-![Languages and Tools](https://skillicons.dev/icons?i=bootstrap,c,cpp,cs,css,docker,dotnet,git,html,js,linux,mssql,mysql,ef,postman,python,sqlserver)
+![Languages and Tools](https://skillicons.dev/icons?i=bootstrap,c,cpp,cs,css,docker,dotnet,git,html,js,linux,mssql,mysql,postman,python,)
 
 ---
 
