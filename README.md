@@ -2,7 +2,7 @@
 
 ### A passionate Backend Developer
 
-- 📫 How to reach me: **mohamed.adel.elsayed.fci@gmail.com**
+- 📫 How to reach me: **mohamedasaad774@gmail.com**
 - ⚡ Fun fact: It’s attention to detail that makes the difference between average and stunning.
   
 ### Know about my experiences: [My CV](#)
@@ -18,7 +18,7 @@
 ---
 
 ### Languages and Tools:
-![Languages and Tools](https://skillicons.dev/icons?i=bootstrap,c,cpp,cs,css,docker,dotnet,git,html,js,linux,mssql,mysql,php,postman,python,react)
+![Languages and Tools](https://skillicons.dev/icons?i=bootstrap,c,cpp,cs,css,docker,dotnet,git,html,js,linux,mssql,mysql,ef,postman,python,sqlserver)
 
 ---
 
