@@ -10,7 +10,7 @@
 ---
 
 ### Connect with me:
-- [GitHub: mohamed-adel23](https://github.com/M0hammedAsaad)
+- [GitHub: M0hammedAsaad](https://github.com/M0hammedAsaad)
 - [LinkedIn](#)
 - [Facebook](#)
 - [Instagram](#)
