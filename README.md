@@ -18,7 +18,13 @@
 ---
 
 ### Languages and Tools:
-![Languages and Tools](https://skillicons.dev/icons?i=bootstrap,c,cpp,cs,css,docker,dotnet,git,html,js,linux,mysql,postman,python,)
+![Languages and Tools](https://skillicons.dev/icons?i=bootstrap,c,cpp,cs,css,docker,dotnet,git,html,js,linux,mysql,postman,python,)  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
+  </a> 
+  <!-- Entity Framework Core -->
+  <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank"> 
+    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="ef-core" width="40" height="40"/>
+  </a>
 
 ---
 
@@ -26,13 +32,7 @@
 
 <p align="left">
    <!-- C# -->
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"> 
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> 
-  </a> 
-  <!-- Entity Framework Core -->
-  <a href="https://learn.microsoft.com/en-us/ef/core/" target="_blank"> 
-    <img src="https://github.com/devicons/devicon/blob/master/icons/dotnetcore/dotnetcore-original.svg" alt="ef-core" width="40" height="40"/>
-  </a>
+ 
   <!-- ASP.NET Core -->
   <a href="https://dotnet.microsoft.com/en-us/apps/aspnet" target="_blank"> 
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" alt="asp-net-core" width="40" height="40"/> 
