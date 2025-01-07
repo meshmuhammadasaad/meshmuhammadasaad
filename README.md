@@ -9,7 +9,7 @@ Hi there! I'm **Muhammad Asaad**, a passionate **Software Engineer** and experie
 - **C**, **C++**, **C#**, **Python**, **JavaScript**, **PHP**
 
 ### Backend & Frameworks:
-- **ASP.NET Core**, **Entity Framework Core**, **LINQ**, **Identity**
+- **ASP.NET Core**, **Entity Framework Core**, **LINQ**, **Identity**, **RESTful API**, **MVC**
 
 ### Frontend:
 - **HTML5**, **CSS3**, **React**, **Bootstrap**
@@ -24,14 +24,14 @@ Hi there! I'm **Muhammad Asaad**, a passionate **Software Engineer** and experie
 
 ## 🌟 Featured Projects
 
-### [E-Commerce Platform](https://github.com/meshmuhammadasaad/e-commerce-platform)
+### [SurveyBasket](https://github.com/meshmuhammadasaad/SurveyBasket)
+A robust survey management system enabling users to create, distribute, and analyze surveys efficiently, developed using **ASP.NET Core**.
+
+### [E-Commerce Platform](https://github.com/meshmuhammadasaad/ECommerceAPI)
 A full-stack e-commerce system featuring product catalogs, user authentication, order management, and secure payments using **ASP.NET Core** and **EF Core**.
 
-### [SYS_Settings API](https://github.com/meshmuhammadasaad/sys-settings-api)
-An API designed to manage system settings using **enumerations (enum)** for better code clarity and performance.
-
-### [Personal Portfolio Website](https://github.com/meshmuhammadasaad/portfolio)
-A responsive portfolio website showcasing my projects, built with **HTML**, **CSS**, and **JavaScript**.
+### [SychoClinicApi](https://github.com/meshmuhammadasaad/SychoClinicApi)
+An advanced API for managing clinic operations, including patient records, appointments, and treatment plans.
 
 ---
 
@@ -44,7 +44,7 @@ I'm constantly enhancing my skills by exploring new technologies and frameworks.
 
 ## 📫 Let's Connect!
 - **GitHub**: [@meshmuhammadasaad](https://github.com/meshmuhammadasaad)
-- **LinkedIn**: [Muhammad Asaad](https://www.linkedin.com/in/mohammed-asaad-93b14523b/)
+- **LinkedIn**: [Muhammad Asaad](https://www.linkedin.com/in/muhammad-asaad-93b14523b/)
 - **Email**: [mohamedasaad774@gmail.com](mailto:mohamedasaad774@gmail.com)
 
 ---
