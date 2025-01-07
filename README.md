@@ -6,7 +6,7 @@ Hi there! I'm **Muhammad Asaad**, a passionate **Software Engineer** and experie
 
 ## 🛠️ Skills & Technologies
 ### Programming Languages:
-- **C**, **C++**, **C#**, **Python**, **JavaScript**, **PHP**
+- **C**, **C++**, **C#**, **Python**, **JavaScript**
 
 ### Backend & Frameworks:
 - **ASP.NET Core**, **Entity Framework Core**, **LINQ**, **Identity**, **RESTful API**, **MVC**
