@@ -19,20 +19,7 @@ Hi there! I'm **Muhammad Asaad**, a passionate **Software Engineer** and experie
 
 ### Tools & Platforms:
 - **Docker**, **Postman**, **Git**, **Linux**
-
----
-
-## 🌟 Featured Projects
-
-### [SurveyBasket](https://github.com/meshmuhammadasaad/SurveyBasket)
-A robust survey management system enabling users to create, distribute, and analyze surveys efficiently, developed using **ASP.NET Core**.
-
-### [E-Commerce Platform](https://github.com/meshmuhammadasaad/ECommerceAPI)
-A full-stack e-commerce system featuring product catalogs, user authentication, order management, and secure payments using **ASP.NET Core** and **EF Core**.
-
-### [SychoClinicApi](https://github.com/meshmuhammadasaad/SychoClinicApi)
-An advanced API for managing clinic operations, including patient records, appointments, and treatment plans.
-
+- 
 ---
 
 ## 📚 Learning & Growth
