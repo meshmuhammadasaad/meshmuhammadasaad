@@ -1,58 +1,63 @@
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=40&duration=3000&pause=1000&color=F7F7F7&center=true&vCenter=true&width=1200&lines=Hello+%F0%9F%91%8B%2C+I'm+Muhammad+Asaad)](https://git.io/typing-svg)
-<h1 align="center"> Backend Developer .NET || <br> Software Engineer || Computer Science Enthusiast </h1>
+# 👋 Welcome to My GitHub Profile!
 
-<!--
-**M0hammedAsaad/M0hammedAsaad** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! I'm **Muhammad Asaad**, a passionate **Software Engineer** and experienced **Backend Developer** with over 3 years of expertise in building web applications and backend systems. My goal is to deliver high-quality, efficient, and scalable solutions while continuously learning and improving.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Skills & Technologies
+### Programming Languages:
+- **C**, **C++**, **C#**, **Python**, **JavaScript**, **PHP**
 
-<h3 align="left">🛠 Languages and Tools</h3>
+### Backend & Frameworks:
+- **ASP.NET Core**, **Entity Framework Core**, **LINQ**, **Identity**
 
-<div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="40" alt="csharp logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/visualstudio/visualstudio-plain.svg" height="40" alt="visualstudio logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" height="40" alt="docker logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" height="40" alt="linux logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dotnetcore/dotnetcore-original.svg" height="40" alt=".NET Core logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/microsoftsqlserver/microsoftsqlserver-plain.svg" height="40" alt="SQL Server logo" />
-  <img width="12" />
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nuget/nuget-original.svg" height="40" alt="Entity Framework logo" />
-</div>
+### Frontend:
+- **HTML5**, **CSS3**, **React**, **Bootstrap**
 
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=M0hammedAsaad&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
+### Databases:
+- **SQL Server**, **MySQL**, **MSSQL**
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohammed-asaad-93b14523b/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="40" alt="linkedin logo"  />
-  </a>
-</div>
+### Tools & Platforms:
+- **Docker**, **Postman**, **Git**, **Linux**
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=M0hammedAsaad&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=M0hammedAsaad&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
-</div>
+---
+
+## 🌟 Featured Projects
+
+### [E-Commerce Platform](https://github.com/meshmuhammadasaad/e-commerce-platform)
+A full-stack e-commerce system featuring product catalogs, user authentication, order management, and secure payments using **ASP.NET Core** and **EF Core**.
+
+### [SYS_Settings API](https://github.com/meshmuhammadasaad/sys-settings-api)
+An API designed to manage system settings using **enumerations (enum)** for better code clarity and performance.
+
+### [Personal Portfolio Website](https://github.com/meshmuhammadasaad/portfolio)
+A responsive portfolio website showcasing my projects, built with **HTML**, **CSS**, and **JavaScript**.
+
+---
+
+## 📚 Learning & Growth
+I'm constantly enhancing my skills by exploring new technologies and frameworks. Currently, I'm diving into:
+- **EF Core 9**
+- Advanced **ASP.NET Core API** development
+
+---
+
+## 📫 Let's Connect!
+- **GitHub**: [@meshmuhammadasaad](https://github.com/meshmuhammadasaad)
+- **LinkedIn**: [Muhammad Asaad](https://www.linkedin.com/in/mohammed-asaad-93b14523b/)
+- **Email**: [mohamedasaad774@gmail.com](mailto:mohamedasaad774@gmail.com)
+
+---
+
+## 🎯 Goals
+My primary goal is to:
+- Build impactful software solutions.
+- Collaborate with teams on innovative projects.
+- Continue to learn and contribute to the developer community.
+
+---
+
+### ⭐ Fun Fact
+> "Coding is not just my profession; it’s my art. I love transforming ideas into reality through code!"
+
+Feel free to explore my repositories and reach out for collaboration opportunities!
